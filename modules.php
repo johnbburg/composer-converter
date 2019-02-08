@@ -1,7 +1,7 @@
 <?php 
 
 // This would be the output of $ drush pml
-$moules = array();
+$modules = array();
 
 
 
